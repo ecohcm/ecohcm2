@@ -6,7 +6,7 @@ app.secret_key = "super-secret-key-2025"
 
 # ==================== 설정 ====================
 FOLDER1_ID = "1N742fbG9_oUKJ5eKJaBMKHT39CCYkBRr"
-FOLDER2_ID = "1stNTBFJsKDiHymMFgAANcAZqwxpCom4y"
+FOLDER2_ID = "1lM401081mJcgMil5mzOfzqqSnJduEVDj"
 
 TELEGRAM_TOKEN = "8418423317:AAHodaij34Zu5MZciHWLBXbgAUzKBkUL4Rs"
 YOUR_CHAT_ID = "7737429021"
