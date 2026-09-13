@@ -206,7 +206,7 @@ def show_main_site():
 <html lang="ko">
 <head>
     <meta charset="UTF-8">
-    <title>eco hcm 예약</title>
+    <title>eco</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
     <style>
