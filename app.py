@@ -206,7 +206,7 @@ def show_main_site():
 <html lang="ko">
 <head>
     <meta charset="UTF-8">
-    <title>eco</title>
+    <title>eco Da Nang 예약</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
     <style>
@@ -235,7 +235,7 @@ def show_main_site():
 <div class="overlay">
 
 <div class="max-w-7xl mx-auto p-6">
-    <h1 class="text-5xl font-bold text-center my-10 drop-shadow-2xl">eco</h1>
+    <h1 class="text-5xl font-bold text-center my-10 drop-shadow-2xl">ecoDa Nang 예약</h1>
 
     <div class="flex justify-center border-b border-gray-700 mb-10">
         <button onclick="switchTab(1)" id="tab1" class="tab px-10 py-4 tab-active text-xl">1번</button>
