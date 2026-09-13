@@ -5,7 +5,7 @@ app = Flask(__name__)
 app.secret_key = "super-secret-key-2025"
 
 # ==================== 설정 ====================
-FOLDER1_ID = "15cN-w5yjUTog-bXmDn8RGVTZzBDm6Uw_"
+FOLDER1_ID = "1N742fbG9_oUKJ5eKJaBMKHT39CCYkBRr"
 FOLDER2_ID = "1stNTBFJsKDiHymMFgAANcAZqwxpCom4y"
 
 TELEGRAM_TOKEN = "8418423317:AAHodaij34Zu5MZciHWLBXbgAUzKBkUL4Rs"
